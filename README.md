@@ -9,6 +9,7 @@ PerfInspector measures how applications, services and the boot process perform o
 - Works with Windows PowerShell 5.1 and PowerShell 7+
 
 ---
+<img width="1423" height="886" alt="image" src="https://github.com/user-attachments/assets/5452913d-e9ad-4afb-862d-c073ed882bfc" />
 
 ## Table of contents
 
