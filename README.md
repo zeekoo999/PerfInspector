@@ -346,7 +346,4 @@ Select it in *Boot & Autostart → Startup apps* and click **Enable / disable se
 
 ---
 
-## License
-
-Add the license of your choice here (for example MIT) and include a `LICENSE` file in the repository.
 
