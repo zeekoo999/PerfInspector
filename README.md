@@ -1,12 +1,3 @@
-# PerfInspector
-
-**A modern GUI performance analyzer for Windows - written in pure PowerShell.**
-
-PerfInspector measures how applications, services and the boot process perform on a Windows machine. It shows what runs heavier in the background than usual, measures application start times, explains which services can be turned off, and analyzes boot time and autostart entries. Every result can be exported.
-
-- Single file (`PerfInspector.ps1`), no modules, no installation, no internet connection required
-- Dark WPF interface with live charts
-- Works with Windows PowerShell 5.1 and PowerShell 7+
 
 ---
 <img width="1423" height="886" alt="image" src="https://github.com/user-attachments/assets/5452913d-e9ad-4afb-862d-c073ed882bfc" />
